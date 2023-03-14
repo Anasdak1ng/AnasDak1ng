@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Dak1ng</h1>
 <h3 align="center">FrontEnd-BackEnd(MobileApp/WebApp/DesktopApp) developer from Morocco 🇲🇦</h3>
-<span align="center" >[ All my repositories are private ] </span>
-<img aligh="right" alt ="Coding" width="600" src="https://cdn.dribbble.com/users/314873/screenshots/4000731/media/e061f689fa8d7a1f988990114eed41dd.gif" >
+<p align="center" >[ All my repositories are private ] </p>
+<img aligh="right" alt ="Coding" width="600" src="[https://cdn.dribbble.com/users/314873/screenshots/4000731/media/e061f689fa8d7a1f988990114eed41dd.gif](https://miro.medium.com/v2/resize:fit:1400/1*LRjLAzWqaLiYl4N5DZH8Kg.gif)" >
 <p align="left">
 </p>
 
