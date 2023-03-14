@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Dak1ng</h1>
 <h3 align="center">FrontEnd-BackEnd(MobileApp/WebApp/DesktopApp) developer from Morocco 🇲🇦</h3>
 <p align="center" >[ All my repositories are private ] </p>
-<img aligh="right" alt ="Coding" width="600" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
+<img aligh="right" alt ="Coding" width="600" src="https://images.squarespace-cdn.com/content/v1/60a3dbc15982af4e5b1843e9/1621575014828-2KG91K07SFPWL9GABUS5/work_work_work.gif" >
 <p align="left">
 </p>
 
