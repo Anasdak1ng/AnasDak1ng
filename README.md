@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Dak1ng</h1>
-<h3 align="center">FrontEnd-BackEnd(MobileApp/WebApp/DesktopApp) developer from Morocco 🇲🇦</h3>
+<h3 align="center">FrontEnd-BackEnd(Mobile/Web/Desktop) developer from Morocco 🇲🇦</h3>
 <p align="center" >[ All my repositories are private ] </p>
 <p align="left">
 </p>
