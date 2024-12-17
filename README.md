@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">Senior Software Engineer | Full-Stack & Mobile Focus from Morocco 🇲🇦</h3>
+<h3 align="center">Senior Software Engineer | Project Manager </h3>
 <p align="center" >[ All my repositories are private ] </p>
 <p align="left">
 </p>
