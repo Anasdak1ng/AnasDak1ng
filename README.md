@@ -1,172 +1,132 @@
 <div align="center">
 
-# Anas
+<img src="./assets/github-header.svg" width="100%" alt="Anas — Technical Team Lead and Senior Software Engineer" />
 
-### Technical Team Lead · Senior Software Engineer
+<br/>
 
-**Software Architecture · Backend Engineering · Full-Stack Platforms · Cloud Infrastructure**
-
-I design, build, and lead production software systems — from architecture and APIs to real-time platforms, infrastructure, deployment, and long-term evolution.
-
-**9+ years building and leading production software across enterprise, logistics, SaaS, fintech, event technology, and mobile products.**
-
-[Portfolio](https://anassfiroudcv.vercel.app)
+<a href="https://anassfiroudcv.vercel.app"><img src="https://img.shields.io/badge/Portfolio-197AE5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/9%2B_Years-Production_Engineering-0D1B2A?style=for-the-badge" alt="9+ years production engineering" />
+<img src="https://img.shields.io/badge/Focus-Software_Architecture-197AE5?style=for-the-badge" alt="Software Architecture" />
 
 </div>
 
----
+## Profile
 
-## Engineering Profile
+Technical Team Lead and Senior Software Engineer with **9+ years building and leading production software** across enterprise, logistics, SaaS, fintech, event technology, and mobile products. I work from system architecture and backend services through product delivery, infrastructure, and production operations.
 
-I work at the intersection of **software architecture, technical leadership, and product engineering**.
+<div align="center">
 
-My focus is turning complex business requirements into systems that are clear to maintain, reliable in production, and capable of evolving as products, traffic, teams, and operational requirements grow.
+`ARCHITECTURE` → `BACKEND` → `FRONTEND` → `MOBILE` → `INFRASTRUCTURE` → `PRODUCTION`
 
-I work across the complete engineering lifecycle:
-
-**Business Problem → Product Architecture → System Design → Development → Infrastructure → Deployment → Monitoring → Scaling**
-
----
+</div>
 
 ## What I Build
 
-|                          |                                                                                                                                   |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| **Enterprise Platforms** | Business-critical systems with complex workflows, roles, permissions, integrations, and operational processes.                    |
-| **Logistics Technology** | Transportation platforms involving shipments, carrier workflows, tracking, maps, bidding, notifications, and operational tooling. |
-| **Real-Time Systems**    | Event-driven applications, WebSockets, live tracking, notifications, and synchronized application state.                          |
-| **API Ecosystems**       | Secure APIs, authentication, integrations, asynchronous workflows, and backend services.                                          |
-| **Web & SaaS Platforms** | Full-stack products designed around maintainable architecture and evolving business requirements.                                 |
-| **Mobile Applications**  | Cross-platform applications connected to backend services, business workflows, and real-time data.                                |
-| **Cloud Infrastructure** | Deployment environments, containerized services, monitoring, production operations, and performance optimization.                 |
-| **AI-Enabled Workflows** | Product automation and intelligent workflows integrated into existing business and engineering systems.                           |
+<table>
+<tr>
+<td width="33%"><strong>▰ Enterprise Platforms</strong><br/><sub>Complex business systems, permissions and operational workflows.</sub></td>
+<td width="33%"><strong>▰ Logistics Technology</strong><br/><sub>Shipment, carrier, tracking, mapping and transportation platforms.</sub></td>
+<td width="33%"><strong>⚡ Real-Time Systems</strong><br/><sub>WebSockets, live state, tracking and event-driven workflows.</sub></td>
+</tr>
+<tr>
+<td><strong>⌁ API Ecosystems</strong><br/><sub>Secure APIs, integrations and asynchronous services.</sub></td>
+<td><strong>◇ Web & Mobile</strong><br/><sub>Production web platforms and cross-platform applications.</sub></td>
+<td><strong>☁ Cloud & Infrastructure</strong><br/><sub>Containers, Linux, deployment, monitoring and operations.</sub></td>
+</tr>
+</table>
 
----
+## Technology Stack
 
-## Core Engineering Focus
+<div align="center">
 
-### Architecture
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="42" height="42" alt="Symfony" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="42" height="42" alt="React Native" />
 
-Designing modular systems with clear boundaries, explicit business logic, and architecture that can evolve without unnecessary complexity.
+<br/><br/>
 
-### Backend Engineering
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="42" height="42" alt="Grafana" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="42" height="42" alt="SonarQube" />
 
-Building APIs, domain services, integrations, authentication systems, asynchronous processing, and business-critical backend workflows.
+<br/><br/>
 
-### Full-Stack Product Engineering
+<sub>PHP · Symfony · Node.js &nbsp; | &nbsp; TypeScript · React · Next.js · Tailwind · React Native &nbsp; | &nbsp; PostgreSQL · MySQL · MongoDB &nbsp; | &nbsp; Docker · Linux · Git</sub>
 
-Connecting backend architecture, frontend applications, mobile experiences, data models, and infrastructure into complete production products.
+</div>
 
-### Real-Time & Event-Driven Systems
+## Engineering Ownership
 
-Designing live application workflows using WebSockets, events, notifications, tracking, and state synchronization.
+<img src="./assets/engineering-flow.svg" width="100%" alt="Full-system engineering ownership flow" />
 
-### Infrastructure & Production Engineering
+## Engineering Specialties
 
-Working across Linux environments, containerization, deployment pipelines, monitoring, observability, performance, and production operations.
+<table>
+<tr>
+<td width="50%"><strong>🏗 Software Architecture</strong><br/><sub>Modular systems, domain boundaries and architecture designed for change.</sub></td>
+<td width="50%"><strong>⚙ Backend Systems</strong><br/><sub>APIs, authentication, integrations, business services and asynchronous processing.</sub></td>
+</tr>
+<tr>
+<td><strong>⚡ Real-Time Architecture</strong><br/><sub>Events, WebSockets, live tracking, notifications and synchronized state.</sub></td>
+<td><strong>🌐 Full-Stack Platforms</strong><br/><sub>Backend, web, mobile and data working as one production product.</sub></td>
+</tr>
+<tr>
+<td><strong>☁ Infrastructure</strong><br/><sub>Containerization, Linux, deployment, observability and production operations.</sub></td>
+<td><strong>🧭 Technical Leadership</strong><br/><sub>Architecture decisions, technical direction, delivery strategy and engineering quality.</sub></td>
+</tr>
+</table>
 
-### Technical Leadership
+## Systems I've Built
 
-Leading architecture decisions, technical direction, implementation strategy, code quality, delivery practices, and engineering execution.
+<table>
+<tr><td><strong>LOGISTICS PLATFORMS</strong></td><td>Shipment workflows · bidding · tracking · carrier operations · maps · notifications</td></tr>
+<tr><td><strong>ENTERPRISE SYSTEMS</strong></td><td>Authorization · workflows · integrations · operational tooling</td></tr>
+<tr><td><strong>REAL-TIME PRODUCTS</strong></td><td>WebSockets · location tracking · events · state synchronization</td></tr>
+<tr><td><strong>API PLATFORMS</strong></td><td>Authentication · integrations · async processing · service architecture</td></tr>
+<tr><td><strong>MOBILE PRODUCTS</strong></td><td>Cross-platform applications · backend integration · real-time workflows</td></tr>
+<tr><td><strong>PRODUCTION INFRASTRUCTURE</strong></td><td>Docker · Linux · deployment · monitoring · performance</td></tr>
+</table>
 
----
+### Current Focus
 
-## Selected Technology Stack
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-197AE5?style=flat-square)
+![Technical Leadership](https://img.shields.io/badge/Technical_Leadership-0D1B2A?style=flat-square)
+![Real-Time Platforms](https://img.shields.io/badge/Real--Time_Platforms-197AE5?style=flat-square)
+![Logistics Technology](https://img.shields.io/badge/Logistics_Technology-0D1B2A?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI_Automation-197AE5?style=flat-square)
+![Production Infrastructure](https://img.shields.io/badge/Production_Infrastructure-0D1B2A?style=flat-square)
 
-I prefer choosing technology based on the product and architecture rather than collecting tools for the sake of a stack.
+### Engineering Principles
 
-| Area               | Technologies                             |
-| ------------------ | ---------------------------------------- |
-| **Languages**      | PHP · TypeScript · JavaScript · Python   |
-| **Backend**        | Symfony · Node.js · Laravel              |
-| **Frontend**       | React · Next.js · Angular · Tailwind CSS |
-| **Mobile**         | React Native                             |
-| **Data**           | PostgreSQL · MySQL · MongoDB             |
-| **Infrastructure** | Docker · Linux · Git                     |
-| **Engineering**    | Grafana · SonarQube · Postman            |
+`Architecture before complexity` &nbsp; · &nbsp; `Reliability over cleverness` &nbsp; · &nbsp; `Automate repetitive work` &nbsp; · &nbsp; `Design for change`
 
----
-
-## Production Engineering Highlights
-
-### Logistics & Transportation
-
-Worked on systems covering transportation workflows, load management, carrier operations, bidding, shipment execution, mapping, live tracking, notifications, and operational processes.
-
-### Enterprise Applications
-
-Designed and delivered systems involving complex authorization models, business rules, integrations, internal operations, and multi-step workflows.
-
-### API Architecture
-
-Built secure backend architectures supporting authentication, integrations, asynchronous processing, high-volume workflows, and multiple client applications.
-
-### Real-Time Products
-
-Implemented systems involving live application events, WebSockets, location updates, state synchronization, operational alerts, and real-time user experiences.
-
-### Web & Mobile Products
-
-Delivered full-stack web platforms and cross-platform mobile applications connected to production backend infrastructure.
-
-### Production Infrastructure
-
-Worked across deployment architecture, containerized services, Linux environments, monitoring, performance analysis, and production operations.
-
----
-
-## How I Engineer
-
-**Keep architecture understandable.**
-A system should make sense to the engineers responsible for operating and extending it.
-
-**Make business logic explicit.**
-Important rules should be visible in the architecture instead of being hidden behind accidental complexity.
-
-**Reliability beats cleverness.**
-Production systems benefit more from predictable behavior than unnecessarily sophisticated abstractions.
-
-**Automate repetitive operations.**
-Engineering time should be spent solving meaningful problems rather than repeating avoidable manual work.
-
-**Measure before optimizing.**
-Performance decisions should be driven by real bottlenecks and observable system behavior.
-
-**Design for change.**
-Requirements evolve. Good architecture gives products room to evolve without requiring constant rewrites.
-
----
-
-> **Private production work**
->
-> Most of my professional engineering work lives in private repositories because it involves enterprise and client systems. Public repositories represent only a small portion of the software I have designed, built, and operated.
-
----
-
-## Beyond the Code
-
-My responsibilities often extend beyond implementation into:
-
-`Architecture Decisions` · `Technical Direction` · `System Design` · `Product Engineering` · `Infrastructure` · `Performance` · `Delivery Strategy` · `Production Operations`
-
-The objective is not simply to ship code.
-
-It is to build software that solves the right problem, survives production, and remains manageable as the product grows.
-
----
-
-## Let's Connect
-
-Building a technically ambitious product or solving a difficult engineering problem?
-
-I'm interested in conversations around **software architecture, technical leadership, enterprise platforms, product engineering, logistics technology, scalable backend systems, and technology partnerships.**
-
-**→ [Explore my portfolio](https://anassfiroudcv.vercel.app)**
+> ### 🔒 Private Production Work
+> Most production systems I've worked on are maintained in private repositories due to enterprise and client confidentiality. Public GitHub activity represents only a portion of my engineering work.
 
 ---
 
 <div align="center">
 
-**Architecture · Engineering · Infrastructure · Product**
+### Let's build something that has to work in production.
+
+**Software Architecture · Technical Leadership · Enterprise Platforms · Product Engineering**
+
+<a href="https://anassfiroudcv.vercel.app"><img src="https://img.shields.io/badge/Explore_My_Portfolio-197AE5?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+
+<br/><br/>
+
+**ANAS**  
+<sub>Technical Team Lead · Senior Software Engineer</sub>
 
 </div>
